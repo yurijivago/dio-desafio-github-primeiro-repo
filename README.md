@@ -6,18 +6,18 @@ Repositório criado para o Desafio de Projeto.
 
 # Desafio Final BlueBank Grupo X
 ## Membros
-- Leonardo Silva
-:octocat: https://github.com/LeonardoMFSilva/
-:blue_book: http://linkedin.com/in/leeosilva
-- Marcus Vinicius Santos de Oliveira
-:octocat: https://github.com/Marvin99SO
-:blue_book: https://www.linkedin.com/in/marcus-vinicius-santos-de-oliveira-1430a21b4/
-- Maria Júlia Alencar Muniz
-:octocat: https://github.com/mariajuliamuniz
-:blue_book: https://www.linkedin.com/in/mariajuliamuniz1/
-- Yuri Jivago Xavier Diniz
-:octocat: https://github.com/yurijivago
-:blue_book: https://www.linkedin.com/in/yuri-jivago-xavier-diniz-49aa97bb/
+- **Leonardo Silva**<br>
+:octocat: https://github.com/LeonardoMFSilva/<br>
+:blue_book: http://linkedin.com/in/leeosilva<br>
+- **Marcus Vinicius Santos de Oliveira**<br>
+:octocat: https://github.com/Marvin99SO<br>
+:blue_book: https://www.linkedin.com/in/marcus-vinicius-santos-de-oliveira-1430a21b4/<br>
+- **Maria Júlia Alencar Muniz**<br>
+:octocat: https://github.com/mariajuliamuniz<br>
+:blue_book: https://www.linkedin.com/in/mariajuliamuniz1/<br>
+- **Yuri Jivago Xavier Diniz**<br>
+:octocat: https://github.com/yurijivago<br>
+:blue_book: https://www.linkedin.com/in/yuri-jivago-xavier-diniz-49aa97bb/<br>
 
 ---
 
